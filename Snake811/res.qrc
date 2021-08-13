@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/7895.wav</file>
+        <file>res/7896.wav</file>
+        <file>res/back.jpg</file>
+    </qresource>
+</RCC>
